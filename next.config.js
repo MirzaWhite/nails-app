@@ -31,26 +31,3 @@ module.exports = {
   swcMinify: true,
   output: 'standalone',
 }
-
-const withTM = require("next-transpile-modules")([
-  "react-markdown",
-  "remark-gfm",
-  "micromark-extension-gfm",
-  "micromark-util-combine-extensions",
-  "micromark-util-chunked",
-  "micromark-util-character",
-  "micromark-util-sanitize-uri",
-  "micromark-util-encode",
-  "micromark-util-classify-character",
-  "micromark-util-resolve-all",
-  "micromark-factory-space",
-  "mdast-util-gfm",
-  "ccount",
-  "mdast-util-find-and-replace",
-  "unist-util-visit-parents",
-  "unist-util-is",
-  "mdast-util-to-markdown",
-  "markdown-table",
-]);
-
-module.exports = withTM({ webpack5: false });
