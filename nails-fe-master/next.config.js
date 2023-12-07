@@ -1,10 +1,10 @@
-export default {
+module.exports = {
   webpack: config => {
     config.watchOptions = {
       poll: 1000,
       aggregateTimeout: 300,
-    };
-    return config;
+    }
+    return config
   },
   images: {
     domains: [
@@ -30,4 +30,4 @@ export default {
   reactStrictMode: false,
   swcMinify: true,
   output: 'standalone',
-};
+}

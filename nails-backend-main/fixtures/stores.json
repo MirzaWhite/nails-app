@@ -1,0 +1,44 @@
+[
+{
+    "model": "store.store",
+    "pk": 1,
+    "fields": {
+        "created_at": "2023-04-19T05:16:46.180Z",
+        "updated_at": "2023-04-19T06:39:57.191Z",
+        "name": "Naturals UIC",
+        "address_line1": "40, United India Colony",
+        "address_line2": "Aruna Avenue",
+        "landmark": null,
+        "area": "Kodambakkam",
+        "state": 1,
+        "city": 1,
+        "pincode": "600024",
+        "phone_number": "9876543210",
+        "email": null,
+        "coordinate": null,
+        "is_active": true,
+        "full_address": "\nNaturals UIC, Aruna Avenue, Aruna Avenue\nKodambakkam, Tamil Nadu, Chennai,\n600024"
+    }
+},
+{
+    "model": "store.store",
+    "pk": 2,
+    "fields": {
+        "created_at": "2023-04-19T06:45:02.351Z",
+        "updated_at": "2023-04-19T06:45:02.351Z",
+        "name": "Naturals Anna Nagar West",
+        "address_line1": "40/1, 13th Main Road",
+        "address_line2": "Anna Nagar West",
+        "landmark": "Near Thirumanagalam Metro",
+        "area": "Anna Nagar",
+        "state": 1,
+        "city": 1,
+        "pincode": "600040",
+        "phone_number": "9876543210",
+        "email": null,
+        "coordinate": null,
+        "is_active": true,
+        "full_address": "\nNaturals Anna Nagar West, Anna Nagar West, Anna Nagar West,\nNear Thirumanagalam Metro, Anna Nagar, Tamil Nadu, \nChennai, 600040"
+    }
+}
+]
