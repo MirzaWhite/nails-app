@@ -1,6 +1,5 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/404": "pages/404.html",
   "/500": "pages/500.html",
@@ -11,8 +10,9 @@
   "/contact-us": "pages/contact-us.html",
   "/privacy-policy": "pages/privacy-policy.html",
   "/products": "pages/products.html",
+  "/_error": "pages/_error.js",
   "/about-us": "pages/about-us.js",
   "/franchise": "pages/franchise.js",
-  "/": "pages/index.js",
-  "/gallery": "pages/gallery.js"
+  "/gallery": "pages/gallery.js",
+  "/": "pages/index.js"
 }
