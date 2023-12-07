@@ -11,8 +11,8 @@
   "/contact-us": "pages/contact-us.html",
   "/privacy-policy": "pages/privacy-policy.html",
   "/products": "pages/products.html",
-  "/": "pages/index.js",
   "/about-us": "pages/about-us.js",
+  "/franchise": "pages/franchise.js",
   "/gallery": "pages/gallery.js",
-  "/franchise": "pages/franchise.js"
+  "/": "pages/index.js"
 }
