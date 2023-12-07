@@ -1,0 +1,1 @@
+export const balck ="#000000"
