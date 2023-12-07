@@ -1,18 +1,18 @@
 {
   "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/404": "pages/404.html",
-  "/_error": "pages/_error.js",
   "/500": "pages/500.html",
   "/[individual-blog.js]": "pages/[individual-blog.js].html",
   "/api/hello": "pages/api/hello.js",
-  "/booking": "pages/booking.html",
   "/blogs": "pages/blogs.html",
+  "/booking": "pages/booking.html",
   "/contact-us": "pages/contact-us.html",
   "/privacy-policy": "pages/privacy-policy.html",
+  "/products": "pages/products.html",
   "/about-us": "pages/about-us.js",
   "/franchise": "pages/franchise.js",
-  "/gallery": "pages/gallery.js",
-  "/products": "pages/products.html",
-  "/": "pages/index.js"
+  "/": "pages/index.js",
+  "/gallery": "pages/gallery.js"
 }
