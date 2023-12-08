@@ -1,0 +1,254 @@
+[
+{
+    "model": "faq.faqsection",
+    "pk": 1,
+    "fields": {
+        "created_at": "2023-04-19T08:03:39.860Z",
+        "updated_at": "2023-04-19T08:28:07.871Z",
+        "question": "Question 1",
+        "answer": {
+            "time": 1681892884721,
+            "blocks": [
+                {
+                    "id": "Zo3dGr4myU",
+                    "data": {
+                        "text": "Why do we use it?",
+                        "level": 2
+                    },
+                    "type": "Header"
+                }
+            ],
+            "version": "2.25.0"
+        },
+        "faq_type": "NORMAL",
+        "is_active": true,
+        "sort_order": 1
+    }
+},
+{
+    "model": "faq.faqsection",
+    "pk": 2,
+    "fields": {
+        "created_at": "2023-04-19T08:25:24.340Z",
+        "updated_at": "2023-04-19T08:35:44.708Z",
+        "question": "Question 2",
+        "answer": {
+            "time": 1681892720923,
+            "blocks": [
+                {
+                    "id": "5g_cFTiOBq",
+                    "data": {
+                        "text": "Sample Sample"
+                    },
+                    "type": "paragraph"
+                }
+            ],
+            "version": "2.25.0"
+        },
+        "faq_type": "NORMAL",
+        "is_active": true,
+        "sort_order": 2
+    }
+},
+{
+    "model": "faq.faqsection",
+    "pk": 3,
+    "fields": {
+        "created_at": "2023-04-19T08:25:41.808Z",
+        "updated_at": "2023-04-19T08:35:44.701Z",
+        "question": "Question 3",
+        "answer": {
+            "time": 1681892738403,
+            "blocks": [
+                {
+                    "id": "YSO5ZSogJY",
+                    "data": {
+                        "text": "Sample Sample"
+                    },
+                    "type": "paragraph"
+                }
+            ],
+            "version": "2.25.0"
+        },
+        "faq_type": "NORMAL",
+        "is_active": true,
+        "sort_order": 3
+    }
+},
+{
+    "model": "faq.faqsection",
+    "pk": 4,
+    "fields": {
+        "created_at": "2023-04-19T08:26:04.883Z",
+        "updated_at": "2023-04-19T08:35:44.694Z",
+        "question": "Question 4",
+        "answer": {
+            "time": 1681892760507,
+            "blocks": [
+                {
+                    "id": "vT0F8Vvmiv",
+                    "data": {
+                        "text": "Sample Sample"
+                    },
+                    "type": "paragraph"
+                }
+            ],
+            "version": "2.25.0"
+        },
+        "faq_type": "NORMAL",
+        "is_active": true,
+        "sort_order": 4
+    }
+},
+{
+    "model": "faq.faqsection",
+    "pk": 5,
+    "fields": {
+        "created_at": "2023-04-19T08:26:29.403Z",
+        "updated_at": "2023-04-19T08:35:44.688Z",
+        "question": "Question 5",
+        "answer": {
+            "time": 1681892787907,
+            "blocks": [
+                {
+                    "id": "aW9ViXFsfq",
+                    "data": {
+                        "text": "Sample Sample"
+                    },
+                    "type": "paragraph"
+                }
+            ],
+            "version": "2.25.0"
+        },
+        "faq_type": "NORMAL",
+        "is_active": true,
+        "sort_order": 5
+    }
+},
+{
+    "model": "faq.faqsection",
+    "pk": 6,
+    "fields": {
+        "created_at": "2023-04-19T08:03:39.860Z",
+        "updated_at": "2023-04-19T08:35:44.714Z",
+        "question": "Question 1",
+        "answer": {
+            "time": 1681892884721,
+            "blocks": [
+                {
+                    "id": "Zo3dGr4myU",
+                    "data": {
+                        "text": "Why do we use it?",
+                        "level": 2
+                    },
+                    "type": "Header"
+                }
+            ],
+            "version": "2.25.0"
+        },
+        "faq_type": "FRANCHISE",
+        "is_active": true,
+        "sort_order": 6
+    }
+},
+{
+    "model": "faq.faqsection",
+    "pk": 7,
+    "fields": {
+        "created_at": "2023-04-19T08:25:24.340Z",
+        "updated_at": "2023-04-19T08:35:44.681Z",
+        "question": "Question 2",
+        "answer": {
+            "time": 1681892720923,
+            "blocks": [
+                {
+                    "id": "5g_cFTiOBq",
+                    "data": {
+                        "text": "Sample Sample"
+                    },
+                    "type": "paragraph"
+                }
+            ],
+            "version": "2.25.0"
+        },
+        "faq_type": "FRANCHISE",
+        "is_active": true,
+        "sort_order": 7
+    }
+},
+{
+    "model": "faq.faqsection",
+    "pk": 8,
+    "fields": {
+        "created_at": "2023-04-19T08:25:41.808Z",
+        "updated_at": "2023-04-19T08:35:44.674Z",
+        "question": "Question 3",
+        "answer": {
+            "time": 1681892738403,
+            "blocks": [
+                {
+                    "id": "YSO5ZSogJY",
+                    "data": {
+                        "text": "Sample Sample"
+                    },
+                    "type": "paragraph"
+                }
+            ],
+            "version": "2.25.0"
+        },
+        "faq_type": "FRANCHISE",
+        "is_active": true,
+        "sort_order": 8
+    }
+},
+{
+    "model": "faq.faqsection",
+    "pk": 9,
+    "fields": {
+        "created_at": "2023-04-19T08:26:04.883Z",
+        "updated_at": "2023-04-19T08:35:44.668Z",
+        "question": "Question 4",
+        "answer": {
+            "time": 1681892760507,
+            "blocks": [
+                {
+                    "id": "vT0F8Vvmiv",
+                    "data": {
+                        "text": "Sample Sample"
+                    },
+                    "type": "paragraph"
+                }
+            ],
+            "version": "2.25.0"
+        },
+        "faq_type": "FRANCHISE",
+        "is_active": true,
+        "sort_order": 9
+    }
+},
+{
+    "model": "faq.faqsection",
+    "pk": 10,
+    "fields": {
+        "created_at": "2023-04-19T08:26:29.403Z",
+        "updated_at": "2023-04-19T08:35:44.661Z",
+        "question": "Question 5",
+        "answer": {
+            "time": 1681892787907,
+            "blocks": [
+                {
+                    "id": "aW9ViXFsfq",
+                    "data": {
+                        "text": "Sample Sample"
+                    },
+                    "type": "paragraph"
+                }
+            ],
+            "version": "2.25.0"
+        },
+        "faq_type": "FRANCHISE",
+        "is_active": true,
+        "sort_order": 10
+    }
+}
+]
