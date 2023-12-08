@@ -1,0 +1,234 @@
+[
+{
+    "model": "gallery.gallery",
+    "pk": 1,
+    "fields": {
+        "created_at": "2023-04-17T11:53:01.105Z",
+        "updated_at": "2023-04-17T11:55:08.822Z",
+        "name": "Our Portfolio",
+        "description": "We provide a comfortable and welcoming environment to make every visit a positive experience",
+        "gallery_type": "PORTFOLIO"
+    }
+},
+{
+    "model": "gallery.gallery",
+    "pk": 2,
+    "fields": {
+        "created_at": "2023-04-17T12:34:32.821Z",
+        "updated_at": "2023-04-17T12:34:32.821Z",
+        "name": "Celebrity Gallery!",
+        "description": "Here we showcase the some of the most iconic memorable nail art looks from our favorite celebrities",
+        "gallery_type": "CELEBRITY"
+    }
+},
+{
+    "model": "gallery.gallerymedia",
+    "pk": 1,
+    "fields": {
+        "created_at": "2023-04-17T11:53:01.107Z",
+        "updated_at": "2023-04-17T11:53:01.107Z",
+        "gallery": 1,
+        "mobile_image": "gallery_media/mobile_image/nailsone.png",
+        "desktop_image": "gallery_media/desktop_image/nailsone.png",
+        "hosted_url_mobile": "",
+        "hosted_url_desktop": "",
+        "provider": null,
+        "provider_url": null,
+        "thumbnail_mobile": "",
+        "thumbnail_desktop": "",
+        "name": null,
+        "description": null,
+        "sort_order": 0,
+        "is_active": true
+    }
+},
+{
+    "model": "gallery.gallerymedia",
+    "pk": 2,
+    "fields": {
+        "created_at": "2023-04-17T11:53:01.749Z",
+        "updated_at": "2023-04-17T11:53:01.749Z",
+        "gallery": 1,
+        "mobile_image": "gallery_media/mobile_image/nailsone_fZ6GAGo.png",
+        "desktop_image": "gallery_media/desktop_image/nailsone_U1SnYva.png",
+        "hosted_url_mobile": "",
+        "hosted_url_desktop": "",
+        "provider": null,
+        "provider_url": null,
+        "thumbnail_mobile": "",
+        "thumbnail_desktop": "",
+        "name": null,
+        "description": null,
+        "sort_order": 0,
+        "is_active": true
+    }
+},
+{
+    "model": "gallery.gallerymedia",
+    "pk": 3,
+    "fields": {
+        "created_at": "2023-04-17T11:53:02.143Z",
+        "updated_at": "2023-04-17T11:53:02.143Z",
+        "gallery": 1,
+        "mobile_image": "gallery_media/mobile_image/nailsone_K5VUA8j.png",
+        "desktop_image": "gallery_media/desktop_image/nailsone_Be5zMSy.png",
+        "hosted_url_mobile": "",
+        "hosted_url_desktop": "",
+        "provider": null,
+        "provider_url": null,
+        "thumbnail_mobile": "",
+        "thumbnail_desktop": "",
+        "name": null,
+        "description": null,
+        "sort_order": 0,
+        "is_active": true
+    }
+},
+{
+    "model": "gallery.gallerymedia",
+    "pk": 4,
+    "fields": {
+        "created_at": "2023-04-17T11:55:08.823Z",
+        "updated_at": "2023-04-17T11:55:08.823Z",
+        "gallery": 1,
+        "mobile_image": "gallery_media/mobile_image/nailsone_Rjttu0q.png",
+        "desktop_image": "gallery_media/desktop_image/nailsone_D8WP1rA.png",
+        "hosted_url_mobile": "",
+        "hosted_url_desktop": "",
+        "provider": null,
+        "provider_url": null,
+        "thumbnail_mobile": "",
+        "thumbnail_desktop": "",
+        "name": null,
+        "description": null,
+        "sort_order": 0,
+        "is_active": true
+    }
+},
+{
+    "model": "gallery.gallerymedia",
+    "pk": 5,
+    "fields": {
+        "created_at": "2023-04-17T11:55:09.606Z",
+        "updated_at": "2023-04-17T11:55:09.606Z",
+        "gallery": 1,
+        "mobile_image": "gallery_media/mobile_image/nailsone_GI9jsIp.png",
+        "desktop_image": "gallery_media/desktop_image/nailsone_DLXtz4k.png",
+        "hosted_url_mobile": "",
+        "hosted_url_desktop": "",
+        "provider": null,
+        "provider_url": null,
+        "thumbnail_mobile": "",
+        "thumbnail_desktop": "",
+        "name": null,
+        "description": null,
+        "sort_order": 0,
+        "is_active": true
+    }
+},
+{
+    "model": "gallery.gallerymedia",
+    "pk": 6,
+    "fields": {
+        "created_at": "2023-04-17T11:55:10.016Z",
+        "updated_at": "2023-04-17T11:55:10.016Z",
+        "gallery": 1,
+        "mobile_image": "gallery_media/mobile_image/nailsone_uzfTJ8a.png",
+        "desktop_image": "gallery_media/desktop_image/nailsone_Q5Kd0rP.png",
+        "hosted_url_mobile": "",
+        "hosted_url_desktop": "",
+        "provider": null,
+        "provider_url": null,
+        "thumbnail_mobile": "",
+        "thumbnail_desktop": "",
+        "name": null,
+        "description": null,
+        "sort_order": 0,
+        "is_active": true
+    }
+},
+{
+    "model": "gallery.gallerymedia",
+    "pk": 7,
+    "fields": {
+        "created_at": "2023-04-17T11:55:10.530Z",
+        "updated_at": "2023-04-17T11:55:10.530Z",
+        "gallery": 1,
+        "mobile_image": "gallery_media/mobile_image/nailsone_tSfyBsu.png",
+        "desktop_image": "gallery_media/desktop_image/nailsone_NyTk96w.png",
+        "hosted_url_mobile": "",
+        "hosted_url_desktop": "",
+        "provider": null,
+        "provider_url": null,
+        "thumbnail_mobile": "",
+        "thumbnail_desktop": "",
+        "name": null,
+        "description": null,
+        "sort_order": 0,
+        "is_active": true
+    }
+},
+{
+    "model": "gallery.gallerymedia",
+    "pk": 8,
+    "fields": {
+        "created_at": "2023-04-17T12:34:32.821Z",
+        "updated_at": "2023-04-17T12:34:32.821Z",
+        "gallery": 2,
+        "mobile_image": "",
+        "desktop_image": "",
+        "hosted_url_mobile": "gallery_media/mobile_video/sample.webm",
+        "hosted_url_desktop": "gallery_media/desktop_video/sample.webm",
+        "provider": null,
+        "provider_url": null,
+        "thumbnail_mobile": "gallery_media/thumbnail_mobile/oregon.jpg",
+        "thumbnail_desktop": "gallery_media/thumbnail_desktop/oregon.jpg",
+        "name": "Nayanthara",
+        "description": "I like the service, and my nails looks absolutely good",
+        "sort_order": 0,
+        "is_active": true
+    }
+},
+{
+    "model": "gallery.gallerymedia",
+    "pk": 9,
+    "fields": {
+        "created_at": "2023-04-17T12:34:36.838Z",
+        "updated_at": "2023-04-17T12:34:36.838Z",
+        "gallery": 2,
+        "mobile_image": "",
+        "desktop_image": "",
+        "hosted_url_mobile": "gallery_media/mobile_video/sample_6duy7la.webm",
+        "hosted_url_desktop": "gallery_media/desktop_video/sample_mtTlVvY.webm",
+        "provider": null,
+        "provider_url": null,
+        "thumbnail_mobile": "gallery_media/thumbnail_mobile/oregon_PMfi4gE.jpg",
+        "thumbnail_desktop": "gallery_media/thumbnail_desktop/oregon_CDALuvA.jpg",
+        "name": "Mrunal Thakur",
+        "description": "I like the service",
+        "sort_order": 0,
+        "is_active": true
+    }
+},
+{
+    "model": "gallery.gallerymedia",
+    "pk": 10,
+    "fields": {
+        "created_at": "2023-04-17T12:34:39.839Z",
+        "updated_at": "2023-04-17T12:34:39.839Z",
+        "gallery": 2,
+        "mobile_image": "",
+        "desktop_image": "",
+        "hosted_url_mobile": "gallery_media/mobile_video/sample_KEzkmWl.webm",
+        "hosted_url_desktop": "gallery_media/desktop_video/sample_DM9Ektx.webm",
+        "provider": null,
+        "provider_url": null,
+        "thumbnail_mobile": "gallery_media/thumbnail_mobile/oregon_JVRORJe.jpg",
+        "thumbnail_desktop": "gallery_media/thumbnail_desktop/oregon_JdFi057.jpg",
+        "name": "Sonam Kapoor",
+        "description": "I like the service, It's amazing",
+        "sort_order": 0,
+        "is_active": true
+    }
+}
+]
