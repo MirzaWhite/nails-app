@@ -145,6 +145,7 @@ const ContactUsForm = () => {
                 <div className={"form-section"}>
                     <div className={'locate-us'}>
                         <H6 color={"#5B307C"} weight={500} className={"title"}>Locate Us</H6>
+                        <B2 color={'#384955'} weight={400}>2023 GROOM INDIA SALON & SPA PRIVATE LIMITED</B2>
                         <SelectServicesStyle>
                             <div className={'select-our-services'}>
 
