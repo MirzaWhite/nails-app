@@ -188,9 +188,9 @@ const Footer = () => {
                 </div>
                 <div className={"reserved"}>
                     <B2 className={isDesktopOrLaptop ? "d-none" : ""} color={'#384955'} weight={400}>2023
-                        Nails.N.Beyond.All Rights Reserved</B2>
+                    GROOM INDIA SALON & SPA PRIVATE LIMITED</B2>
                     <div className={"ds-reserve"}>
-                        <B2 color={'#384955'} weight={400}>2023 Nails.N.Beyond.All Rights Reserved</B2>
+                        <B2 color={'#384955'} weight={400}>GROOM INDIA SALON & SPA PRIVATE LIMITED</B2>
                         <B2 color={'#384955'} weight={400} onClick={() => router.push("./privacy-policy")}
                             className={"privacy"}>Privacy Policy | Terms & Conditions</B2>
                     </div>
